@@ -1,0 +1,16 @@
+# Arduino build output
+build/
+*.hex
+*.elf
+
+# Editor / OS junk
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Raw serial captures - keep the summaries in docs/testing_and_results.md
+*.log
