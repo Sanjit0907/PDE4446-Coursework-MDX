@@ -1,0 +1,3 @@
+# Test C1 - distance scale. Drive a measured 1000 mm with the counts zeroed first.
+# mm_per_tick = measured_distance_mm / mean(ticks_left, ticks_right)
+run,date,measured_distance_mm,ticks_left,ticks_right,mm_per_tick,notes
