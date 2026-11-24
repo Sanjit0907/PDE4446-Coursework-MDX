@@ -1,0 +1,2 @@
+# Avoidance manoeuvre. lateral_error_mm is how far from the original line the robot ends up.
+run,date,obstacle,detect_distance_cm,cleared_without_contact,lateral_error_mm,heading_error_deg,duration_s,notes
