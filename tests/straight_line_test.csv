@@ -1,0 +1,2 @@
+# Straight-line deviation. Drive along a chalk line and measure the sideways offset at the end.
+run,date,distance_driven_mm,lateral_deviation_mm,target_speed_mm_s,cable_attached,battery_state,notes
